@@ -1,0 +1,11 @@
+.friendList {
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  background-color: rgb(206, 77, 60);
+  border: 1px solid rgb(214, 115, 115);
+  border-radius: 5px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(206, 77, 60,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(206, 77, 60,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(216, 195, 192, 0.75);
+}
